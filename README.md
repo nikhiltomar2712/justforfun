@@ -3,3 +3,4 @@
 <!-- Pair Extraordinaire collaboration step 2 -->
 Update milestone 5
 Update milestone 6
+Update milestone 7
